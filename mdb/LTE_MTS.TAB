@@ -1,0 +1,16 @@
+!table
+!version 1000
+!charset WindowsCyrillic
+
+Definition Table
+  File "Pokritie_zavod.accdb"
+  Type ACCESS TABLE "LTE_MTS" Charset "WindowsCyrillic"
+  Fields 3
+    X Float ;
+    Y Float ;
+    P Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "a6260862-b6d9-4906-b983-587f1382cbbb"
+end_metadata

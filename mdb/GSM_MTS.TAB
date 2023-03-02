@@ -1,0 +1,16 @@
+!table
+!version 1000
+!charset WindowsCyrillic
+
+Definition Table
+  File "Pokritie_zavod.accdb"
+  Type ACCESS TABLE "GSM_MTS" Charset "WindowsCyrillic"
+  Fields 3
+    X Float ;
+    Y Float ;
+    P Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "391f5a25-bae6-4d86-850a-1c06558a9065"
+end_metadata

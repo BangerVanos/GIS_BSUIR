@@ -1,0 +1,16 @@
+!table
+!version 1000
+!charset WindowsCyrillic
+
+Definition Table
+  File "Pokritie_zavod.accdb"
+  Type ACCESS TABLE "GSM_BEST" Charset "WindowsCyrillic"
+  Fields 3
+    X Float ;
+    Y Float ;
+    P Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "289fcddf-12e2-4cdb-a899-16b344a12ad3"
+end_metadata

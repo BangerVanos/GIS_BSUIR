@@ -1,0 +1,16 @@
+!table
+!version 1000
+!charset WindowsCyrillic
+
+Definition Table
+  File "Pokritie_zavod.accdb"
+  Type ACCESS TABLE "UMTS_MTS" Charset "WindowsCyrillic"
+  Fields 3
+    X Float ;
+    Y Float ;
+    P Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "db4694a3-ddee-4219-8448-532b90ada82f"
+end_metadata

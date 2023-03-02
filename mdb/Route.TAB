@@ -1,0 +1,15 @@
+!table
+!version 1000
+!charset WindowsCyrillic
+
+Definition Table
+  File "Pokritie_zavod.accdb"
+  Type ACCESS TABLE "Route" Charset "WindowsCyrillic"
+  Fields 2
+    X Float ;
+    Y Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "bf255c25-f946-42f6-a556-8cc3e263e922"
+end_metadata

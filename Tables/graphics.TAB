@@ -1,0 +1,14 @@
+!table
+!version 750
+!charset WindowsCyrillic
+
+Definition Table
+  File "graphics.xml"
+  Type "WMS"
+  CoordSys Earth Projection 1, 104
+ Charset "WindowsCyrillic"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "ddf2e24d-4735-4de9-965a-1a5be7605a84"
+end_metadata
